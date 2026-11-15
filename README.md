@@ -1,6 +1,6 @@
 # PC Doctor
 
-Made by Mayur - github.com/Mayurchavan2005 / instagram.com/vibe.coderr_
+Made by Mayur - github.com/Mayurchavan2005
 
 ## Problem
 
