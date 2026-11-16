@@ -1,6 +1,6 @@
 """
 PC Doctor
-Made by Mayur (@vibe.coderr_)
+Made by Mayur
 
 Problem: A PC becomes slow, but Windows only shows numbers
 like CPU 90% and RAM 85%. Most people do not know what
