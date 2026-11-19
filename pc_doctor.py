@@ -203,7 +203,7 @@ def build_report(stats, score, advice, top_processes):
     report.append(f"Uptime: {stats['uptime_hours']:.1f} hours")
     report.append(f"Temp files: {format_size(stats['temp_size'])}")
     report.append("")
-    report.append("Explanation in plain English:")
+    report.append("Explanation:")
     for line in advice:
         report.append(f"- {line}")
     report.append("")
@@ -234,7 +234,7 @@ def main():
     print(f"Uptime: {stats['uptime_hours']:.1f} hours | Temp: {format_size(stats['temp_size'])}")
     print("=" * 40)
 
-    print("\nExplanation in plain English:")
+    print("\nExplanation:")
     for line in advice:
         print(f"- {line}")
 
